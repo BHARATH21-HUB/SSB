@@ -57,13 +57,7 @@ OUTPUT WAVEFORM
 
 TABULATION
 
-
-
-
-
-
-
-
+<img width="475" height="788" alt="image" src="https://github.com/user-attachments/assets/f36a8fd0-76de-4369-809a-10d347b15aaa" />
 
 RESULT:
 
